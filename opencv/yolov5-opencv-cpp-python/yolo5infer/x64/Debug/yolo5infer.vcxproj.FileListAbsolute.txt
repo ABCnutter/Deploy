@@ -1,0 +1,2 @@
+E:\CS\DL\yolo\yolov5-opencv-cpp-python\yolo5infer\x64\Debug\yolo5infer.exe
+E:\CS\DL\deploymeat\opencv\yolov5-opencv-cpp-python\yolo5infer\x64\Debug\yolo5infer.exe
